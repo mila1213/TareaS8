@@ -20,3 +20,4 @@ Se usa la clase padre Dispositivo con atributos privados, y se aplican getters y
 Las clases hijas (Laptop y Telefono) sobrescriben el método mostrarInfo() para aplicar polimorfismo.
 <img width="814" height="812" alt="image" src="https://github.com/user-attachments/assets/12f5acc3-c2ca-445a-859a-b143a8c04fc3" />
 **UML**
+<img width="1129" height="711" alt="image" src="https://github.com/user-attachments/assets/3e56d85a-1530-4308-afa9-d29ea2466d0b" />
