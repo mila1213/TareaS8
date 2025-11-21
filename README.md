@@ -1,0 +1,22 @@
+**Sistema de Registro de Juegos**
+Programa que permita registrar y administrar información sobre juegos de Mario Bros y de Carreras de Vehículos, aplicando herencia, polimorfismo y validaciones con excepciones personalizadas.
+El sistema tiene un menú que permite:
+Registrar juegos
+Mostrar todos los juegos
+Buscar juegos por nombre
+Filtrar juegos por tipo
+Probar el polimorfismo usando el método mostrarDetalles()
+Manejar errores cuando se ingresan datos inválidos
+<img width="1323" height="934" alt="image" src="https://github.com/user-attachments/assets/aea80acf-a3bf-45ce-9823-2fc9aed9405e" />
+<img width="1355" height="946" alt="image" src="https://github.com/user-attachments/assets/e4781b3f-712d-4bc5-9146-b85774af3f0a" />
+<img width="924" height="787" alt="image" src="https://github.com/user-attachments/assets/6e168cda-9b3c-4b82-89ba-a133cca876be" />
+**UML**
+<img width="1407" height="665" alt="image" src="https://github.com/user-attachments/assets/22b6b64e-33e5-4ce0-914c-021f02f2e817" />
+
+**Sistema de Dispositivos Electrónicos**
+Programa en Java que simule el registro y funcionamiento de diferentes 
+dispositivos electrónicos. 
+Se usa la clase padre Dispositivo con atributos privados, y se aplican getters y setters para validar datos.
+Las clases hijas (Laptop y Telefono) sobrescriben el método mostrarInfo() para aplicar polimorfismo.
+<img width="814" height="812" alt="image" src="https://github.com/user-attachments/assets/12f5acc3-c2ca-445a-859a-b143a8c04fc3" />
+**UML**
