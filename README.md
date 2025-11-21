@@ -11,6 +11,7 @@ Manejar errores cuando se ingresan datos inválidos
 <img width="1355" height="946" alt="image" src="https://github.com/user-attachments/assets/e4781b3f-712d-4bc5-9146-b85774af3f0a" />
 <img width="924" height="787" alt="image" src="https://github.com/user-attachments/assets/6e168cda-9b3c-4b82-89ba-a133cca876be" />
 **UML**
+<img width="1407" height="665" alt="image" src="https://github.com/user-attachments/assets/22b6b64e-33e5-4ce0-914c-021f02f2e817" />
 
 **Sistema de Dispositivos Electrónicos**
 Programa en Java que simule el registro y funcionamiento de diferentes 
