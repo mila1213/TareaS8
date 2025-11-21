@@ -26,19 +26,21 @@ public class Main {
                     try {
                         System.out.print("Marca: ");
                         String marca = sc.nextLine();
-
                         System.out.print("Modelo: ");
                         String modelo = sc.nextLine();
-
                         System.out.print("Precio: ");
                         double precio = sc.nextDouble();
                         sc.nextLine();
-
                         System.out.print("RAM (GB): ");
                         int ram = sc.nextInt();
                         sc.nextLine();
-
-                        lista.add(new Laptop(marca, modelo, precio, ram));
+                        System.out.print("Almacenamiento (GB): ");
+                        int almacenamiento = sc.nextInt();
+                        sc.nextLine();
+                        System.out.print("Procesador : ");
+                        String procesador = sc.nextLine();
+                        sc.nextLine();
+                        lista.add(new Laptop(marca, modelo, precio, ram, almacenamiento,procesador));
                         System.out.println("Laptop registrada correctamente.");
 
                     } catch (DatoInvalidoException e) {

@@ -10,7 +10,7 @@ public class Telefono extends Dispositivo {
 
     @Override
     public void mostrarInfo() {
-        System.out.println("=== Teléfono ===");
+        System.out.println("--- Teléfono ----");
         System.out.println("Marca: " + getMarca());
         System.out.println("Modelo: " + getModelo());
         System.out.println("Precio: $" + getPrecio());
